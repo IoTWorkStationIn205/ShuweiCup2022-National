@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1803205b-e708-4c69-8855-68dc9b1cf7a3" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HcQlRVO9no7qVmm0mZAAVP5Ycc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/dsProject/nmmcm/data&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\dsProject\nmmcm\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\dsProject\nmmcm\notebooks\solve2" />
+      <recent name="E:\dsProject\nmmcm\notebooks\solve1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="nmmcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nmmcm" type="PythonConfigurationType" factoryName="Python">
+      <module name="nmmcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1803205b-e708-4c69-8855-68dc9b1cf7a3" name="变更" comment="" />
+      <created>1668582042704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668582042704</updated>
+      <workItem from="1668582044393" duration="40000" />
+      <workItem from="1668644099575" duration="5225000" />
+      <workItem from="1668650668084" duration="2123000" />
+      <workItem from="1668675443869" duration="41193000" />
+      <workItem from="1668734718565" duration="9516000" />
+      <workItem from="1668757566525" duration="27601000" />
+      <workItem from="1668789673453" duration="4016000" />
+      <workItem from="1668797866564" duration="963000" />
+      <workItem from="1668798936184" duration="4718000" />
+      <workItem from="1668803866989" duration="562000" />
+      <workItem from="1668804922558" duration="938000" />
+      <workItem from="1668836563725" duration="3349000" />
+      <workItem from="1668840055420" duration="1001000" />
+      <workItem from="1668841291092" duration="4272000" />
+      <workItem from="1668846341687" duration="2997000" />
+      <workItem from="1668849573657" duration="14113000" />
+      <workItem from="1668866010928" duration="3762000" />
+      <workItem from="1668872199337" duration="13929000" />
+      <workItem from="1668889179558" duration="1680000" />
+      <workItem from="1668891000061" duration="486000" />
+      <workItem from="1668891532277" duration="511000" />
+      <workItem from="1668892190618" duration="2736000" />
+      <workItem from="1668895859454" duration="8776000" />
+      <workItem from="1668932803167" duration="21000" />
+      <workItem from="1668937288262" duration="7210000" />
+      <workItem from="1669191487373" duration="1298000" />
+      <workItem from="1669241978117" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

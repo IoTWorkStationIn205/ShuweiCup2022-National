@@ -1,0 +1,147 @@
+  group1  group2 meandiff p-adj    lower    upper reject    target
+0  bader  better  -3.7597   0.0  -3.9484  -3.5711   True  CDRSB_bl
+CDRSB_bl组间【有】显著差异
+better < bader
+
+  group1  group2 meandiff p-adj   lower    upper reject target
+0  bader  better  -3.6017   0.0  -4.101  -3.1024   True    AGE
+AGE组间【有】显著差异
+better < bader
+
+  group1  group2 meandiff p-adj    lower  upper reject     target
+0  bader  better  -7.4709   0.0  -8.0317  -6.91   True  ADAS11_bl
+ADAS11_bl组间【有】显著差异
+better < bader
+
+  group1  group2  meandiff p-adj     lower     upper reject     target
+0  bader  better  -10.9304   0.0  -11.5844  -10.2763   True  ADAS13_bl
+ADAS13_bl组间【有】显著差异
+better < bader
+
+  group1  group2 meandiff p-adj    lower    upper reject     target
+0  bader  better  -1.8671   0.0  -2.0268  -1.7075   True  ADASQ4_bl
+ADASQ4_bl组间【有】显著差异
+better < bader
+
+  group1  group2 meandiff p-adj   lower   upper reject   target
+0  bader  better   4.6434   0.0  4.3126  4.9743   True  MMSE_bl
+MMSE_bl组间【有】显著差异
+bader < better
+
+  group1  group2 meandiff p-adj   lower   upper reject              target
+0  bader  better    9.198   0.0  8.4625  9.9336   True  RAVLT_immediate_bl
+RAVLT_immediate_bl组间【有】显著差异
+bader < better
+
+  group1  group2 meandiff p-adj   lower   upper reject             target
+0  bader  better   1.1658   0.0  0.9657  1.3659   True  RAVLT_learning_bl
+RAVLT_learning_bl组间【有】显著差异
+bader < better
+
+  group1  group2  meandiff p-adj     lower    upper reject  \
+0  bader  better  -30.7869   0.0  -32.9128  -28.661   True   
+
+                target  
+0  RAVLT_forgetting_bl  
+RAVLT_forgetting_bl组间【有】显著差异
+better < bader
+
+  group1  group2  meandiff p-adj     lower     upper reject  \
+0  bader  better  -12.8377   0.0  -15.4192  -10.2562   True   
+
+                     target  
+0  RAVLT_perc_forgetting_bl  
+RAVLT_perc_forgetting_bl组间【有】显著差异
+better < bader
+
+  group1  group2  meandiff p-adj     lower     upper reject       target
+0  bader  better  -26.0081   0.0  -32.7076  -19.3086   True  TRABSCOR_bl
+TRABSCOR_bl组间【有】显著差异
+better < bader
+
+  group1  group2 meandiff p-adj    lower    upper reject  target
+0  bader  better  -9.3598   0.0  -9.8232  -8.8964   True  FAQ_bl
+FAQ_bl组间【有】显著差异
+better < bader
+
+  group1  group2 meandiff p-adj   lower   upper reject         target
+0  bader  better   8.5433   0.0  8.0859  9.0008   True  mPACCdigit_bl
+mPACCdigit_bl组间【有】显著差异
+bader < better
+
+  group1  group2 meandiff p-adj   lower   upper reject           target
+0  bader  better   7.8689   0.0  7.4343  8.3035   True  mPACCtrailsB_bl
+mPACCtrailsB_bl组间【有】显著差异
+bader < better
+
+  group1  group2     meandiff   p-adj        lower      upper reject  \
+0  bader  better  -20394.5733  0.1033  -44931.8251  4142.6785  False   
+
+        target  
+0  IMAGEUID_bl  
+IMAGEUID_bl组间【无】显著差异
+better <= bader
+
+  group1  group2    meandiff p-adj    lower       upper reject         target
+0  bader  better  -8576.4591   0.0  -9332.6  -7820.3182   True  Ventricles_bl
+Ventricles_bl组间【有】显著差异
+better < bader
+
+  group1  group2  meandiff p-adj     lower     upper reject          target
+0  bader  better  589.5576   0.0  546.1698  632.9454   True  Hippocampus_bl
+Hippocampus_bl组间【有】显著差异
+bader < better
+
+  group1  group2    meandiff p-adj       lower       upper reject  \
+0  bader  better  24703.0139   0.0  21688.3119  27717.7159   True   
+
+          target  
+0  WholeBrain_bl  
+WholeBrain_bl组间【有】显著差异
+bader < better
+
+  group1  group2  meandiff p-adj     lower     upper reject         target
+0  bader  better  604.0073   0.0  464.9156  743.0989   True  Entorhinal_bl
+Entorhinal_bl组间【有】显著差异
+bader < better
+
+  group1  group2  meandiff p-adj     lower      upper reject       target
+0  bader  better  961.3604   0.0  845.2709  1077.4498   True  Fusiform_bl
+Fusiform_bl组间【有】显著差异
+bader < better
+
+  group1  group2   meandiff p-adj      lower      upper reject      target
+0  bader  better  1368.1782   0.0  1249.9706  1486.3859   True  MidTemp_bl
+MidTemp_bl组间【有】显著差异
+bader < better
+
+  group1  group2     meandiff p-adj       lower        upper reject  target
+0  bader  better  125982.2641   0.0  71626.6265  180337.9017   True  ICV_bl
+ICV_bl组间【有】显著差异
+bader < better
+
+  group1  group2 meandiff p-adj lower   upper reject   target
+0  bader  better   9.2897   0.0  8.67  9.9094   True  MOCA_bl
+MOCA_bl组间【有】显著差异
+bader < better
+
+  group1  group2 meandiff p-adj   lower   upper reject          target
+0  bader  better   0.5957   0.0  0.5255  0.6659   True  EcogPtTotal_bl
+EcogPtTotal_bl组间【有】显著差异
+bader < better
+
+  group1  group2 meandiff   p-adj    lower   upper reject          target
+0  bader  better   0.0737  0.1373  -0.0235  0.1709  False  EcogSPTotal_bl
+EcogSPTotal_bl组间【无】显著差异
+bader <= better
+
+  group1  group2 meandiff   p-adj    lower   upper reject    target
+0  bader  better   0.0656  0.0908  -0.0104  0.1417  False  Month_bl
+Month_bl组间【无】显著差异
+bader <= better
+
+  group1  group2   meandiff p-adj      lower      upper reject     target
+0  bader  better  -688.0439   0.0  -771.5677  -604.5201   True  timestamp
+timestamp组间【有】显著差异
+better < bader
+

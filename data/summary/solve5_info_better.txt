@@ -1,0 +1,366 @@
+    group1   group2 meandiff   p-adj    lower    upper reject    target
+0   AD_MCI  EMCI_CN  -0.3161  0.0804  -0.6569   0.0248  False  CDRSB_bl
+1   AD_MCI  LMCI_CN  -0.5901  0.0001  -0.9317  -0.2485   True  CDRSB_bl
+2   AD_MCI   SMC_CN   0.4804  0.0011   0.1501   0.8107   True  CDRSB_bl
+3  EMCI_CN  LMCI_CN   -0.274     0.0  -0.4077  -0.1403   True  CDRSB_bl
+4  EMCI_CN   SMC_CN   0.7965     0.0   0.6951   0.8979   True  CDRSB_bl
+5  LMCI_CN   SMC_CN   1.0705     0.0   0.9666   1.1744   True  CDRSB_bl
+CDRSB_bl组间【有】显著差异
+LMCI_CN < EMCI_CN <= AD_MCI < SMC_CN
+
+    group1   group2 meandiff   p-adj     lower    upper reject target
+0   AD_MCI  EMCI_CN  -9.4432     0.0  -14.1613   -4.725   True    AGE
+1   AD_MCI  LMCI_CN  -5.1492  0.0265   -9.8778  -0.4206   True    AGE
+2   AD_MCI   SMC_CN  -5.3913  0.0132   -9.9635  -0.8191   True    AGE
+3  EMCI_CN  LMCI_CN    4.294     0.0    2.4434   6.1446   True    AGE
+4  EMCI_CN   SMC_CN   4.0519     0.0    2.6482   5.4555   True    AGE
+5  LMCI_CN   SMC_CN  -0.2421  0.9728   -1.6804   1.1962  False    AGE
+AGE组间【有】显著差异
+EMCI_CN < SMC_CN <= LMCI_CN < AD_MCI
+
+    group1   group2 meandiff   p-adj    lower    upper reject     target
+0   AD_MCI  EMCI_CN  -2.3574  0.0047  -4.1694  -0.5453   True  ADAS11_bl
+1   AD_MCI  LMCI_CN  -3.8451     0.0  -5.6611  -2.0291   True  ADAS11_bl
+2   AD_MCI   SMC_CN  -1.7328  0.0547  -3.4887   0.0232  False  ADAS11_bl
+3  EMCI_CN  LMCI_CN  -1.4878     0.0  -2.1985   -0.777   True  ADAS11_bl
+4  EMCI_CN   SMC_CN   0.6246  0.0155   0.0855   1.1637   True  ADAS11_bl
+5  LMCI_CN   SMC_CN   2.1123     0.0   1.5599   2.6647   True  ADAS11_bl
+ADAS11_bl组间【有】显著差异
+LMCI_CN < EMCI_CN < SMC_CN <= AD_MCI
+
+    group1   group2 meandiff   p-adj    lower    upper reject     target
+0   AD_MCI  EMCI_CN  -3.3247   0.001   -5.595  -1.0545   True  ADAS13_bl
+1   AD_MCI  LMCI_CN  -5.2259     0.0  -7.5011  -2.9506   True  ADAS13_bl
+2   AD_MCI   SMC_CN  -2.2767  0.0393  -4.4767  -0.0767   True  ADAS13_bl
+3  EMCI_CN  LMCI_CN  -1.9012     0.0  -2.7916  -1.0107   True  ADAS13_bl
+4  EMCI_CN   SMC_CN   1.0481  0.0004   0.3727   1.7235   True  ADAS13_bl
+5  LMCI_CN   SMC_CN   2.9492     0.0   2.2571   3.6413   True  ADAS13_bl
+ADAS13_bl组间【有】显著差异
+LMCI_CN < EMCI_CN < SMC_CN < AD_MCI
+
+    group1   group2 meandiff   p-adj    lower    upper reject     target
+0   AD_MCI  EMCI_CN  -0.9981  0.0572  -2.0167   0.0205  False  ADASQ4_bl
+1   AD_MCI  LMCI_CN  -1.3082  0.0056   -2.329  -0.2874   True  ADASQ4_bl
+2   AD_MCI   SMC_CN  -0.6038   0.394  -1.5909   0.3832  False  ADASQ4_bl
+3  EMCI_CN  LMCI_CN  -0.3101  0.1897  -0.7096   0.0894  False  ADASQ4_bl
+4  EMCI_CN   SMC_CN   0.3943  0.0047   0.0912   0.6973   True  ADASQ4_bl
+5  LMCI_CN   SMC_CN   0.7044     0.0   0.3939   1.0149   True  ADASQ4_bl
+ADASQ4_bl组间【有】显著差异
+LMCI_CN <= EMCI_CN < SMC_CN <= AD_MCI
+
+    group1   group2 meandiff   p-adj    lower    upper reject   target
+0   AD_MCI  EMCI_CN  -0.6398  0.8345  -2.5949   1.3154  False  MMSE_bl
+1   AD_MCI  LMCI_CN   0.7237  0.7777  -1.2358   2.6832  False  MMSE_bl
+2   AD_MCI   SMC_CN  -0.2087  0.9921  -2.1034    1.686  False  MMSE_bl
+3  EMCI_CN  LMCI_CN   1.3634     0.0   0.5965   2.1303   True  MMSE_bl
+4  EMCI_CN   SMC_CN    0.431  0.2258  -0.1506   1.0127  False  MMSE_bl
+5  LMCI_CN   SMC_CN  -0.9324  0.0004  -1.5284  -0.3364   True  MMSE_bl
+MMSE_bl组间【有】显著差异
+EMCI_CN <= SMC_CN <= AD_MCI <= LMCI_CN
+
+    group1   group2 meandiff   p-adj    lower    upper reject  \
+0   AD_MCI  EMCI_CN   6.2561  0.0303   0.4141  12.0981   True   
+1   AD_MCI  LMCI_CN   4.9514  0.1306  -0.9035  10.8064  False   
+2   AD_MCI   SMC_CN   2.0285  0.7932  -3.6328   7.6898  False   
+3  EMCI_CN  LMCI_CN  -1.3047  0.4593  -3.5961   0.9868  False   
+4  EMCI_CN   SMC_CN  -4.2276     0.0  -5.9656  -2.4896   True   
+5  LMCI_CN   SMC_CN  -2.9229  0.0002  -4.7038   -1.142   True   
+
+               target  
+0  RAVLT_immediate_bl  
+1  RAVLT_immediate_bl  
+2  RAVLT_immediate_bl  
+3  RAVLT_immediate_bl  
+4  RAVLT_immediate_bl  
+5  RAVLT_immediate_bl  
+RAVLT_immediate_bl组间【有】显著差异
+AD_MCI <= SMC_CN < LMCI_CN <= EMCI_CN
+
+    group1   group2 meandiff   p-adj    lower   upper reject  \
+0   AD_MCI  EMCI_CN   0.0645  0.9997  -1.7572  1.8862  False   
+1   AD_MCI  LMCI_CN   -0.206  0.9915  -2.0317  1.6197  False   
+2   AD_MCI   SMC_CN  -0.1593  0.9956  -1.9246   1.606  False   
+3  EMCI_CN  LMCI_CN  -0.2705  0.7644   -0.985   0.444  False   
+4  EMCI_CN   SMC_CN  -0.2238  0.7125  -0.7658  0.3181  False   
+5  LMCI_CN   SMC_CN   0.0467  0.9964  -0.5087   0.602  False   
+
+              target  
+0  RAVLT_learning_bl  
+1  RAVLT_learning_bl  
+2  RAVLT_learning_bl  
+3  RAVLT_learning_bl  
+4  RAVLT_learning_bl  
+5  RAVLT_learning_bl  
+RAVLT_learning_bl组间【无】显著差异
+LMCI_CN <= SMC_CN <= AD_MCI <= EMCI_CN
+
+    group1   group2  meandiff   p-adj     lower     upper reject  \
+0   AD_MCI  EMCI_CN  -35.7164     0.0  -53.7251  -17.7076   True   
+1   AD_MCI  LMCI_CN  -22.1758  0.0087  -40.2244   -4.1273   True   
+2   AD_MCI   SMC_CN   -33.021     0.0  -50.4726  -15.5694   True   
+3  EMCI_CN  LMCI_CN   13.5406     0.0    6.4769   20.6043   True   
+4  EMCI_CN   SMC_CN    2.6954  0.5667   -2.6622     8.053  False   
+5  LMCI_CN   SMC_CN  -10.8452     0.0  -16.3351   -5.3553   True   
+
+                target  
+0  RAVLT_forgetting_bl  
+1  RAVLT_forgetting_bl  
+2  RAVLT_forgetting_bl  
+3  RAVLT_forgetting_bl  
+4  RAVLT_forgetting_bl  
+5  RAVLT_forgetting_bl  
+RAVLT_forgetting_bl组间【有】显著差异
+EMCI_CN <= SMC_CN < LMCI_CN < AD_MCI
+
+    group1   group2  meandiff   p-adj     lower    upper reject  \
+0   AD_MCI  EMCI_CN  -18.0011  0.0696  -36.9502   0.9481  False   
+1   AD_MCI  LMCI_CN  -28.1286  0.0008  -47.1196  -9.1375   True   
+2   AD_MCI   SMC_CN  -16.6676  0.0907  -35.0305   1.6953  False   
+3  EMCI_CN  LMCI_CN  -10.1275  0.0027    -17.56   -2.695   True   
+4  EMCI_CN   SMC_CN    1.3335  0.9294   -4.3039   6.9709  False   
+5  LMCI_CN   SMC_CN    11.461     0.0    5.6844  17.2375   True   
+
+                     target  
+0  RAVLT_perc_forgetting_bl  
+1  RAVLT_perc_forgetting_bl  
+2  RAVLT_perc_forgetting_bl  
+3  RAVLT_perc_forgetting_bl  
+4  RAVLT_perc_forgetting_bl  
+5  RAVLT_perc_forgetting_bl  
+RAVLT_perc_forgetting_bl组间【有】显著差异
+LMCI_CN < EMCI_CN <= SMC_CN <= AD_MCI
+
+    group1   group2  meandiff   p-adj     lower     upper reject       target
+0   AD_MCI  EMCI_CN   -32.376     0.0  -50.2944  -14.4576   True  TRABSCOR_bl
+1   AD_MCI  LMCI_CN  -29.4064  0.0002  -47.3643  -11.4484   True  TRABSCOR_bl
+2   AD_MCI   SMC_CN  -27.1715  0.0004  -44.5355   -9.8074   True  TRABSCOR_bl
+3  EMCI_CN  LMCI_CN    2.9696  0.6976   -4.0586    9.9979  False  TRABSCOR_bl
+4  EMCI_CN   SMC_CN    5.2046  0.0586   -0.1262   10.5353  False  TRABSCOR_bl
+5  LMCI_CN   SMC_CN    2.2349  0.7184   -3.2274    7.6973  False  TRABSCOR_bl
+TRABSCOR_bl组间【有】显著差异
+EMCI_CN <= LMCI_CN <= SMC_CN < AD_MCI
+
+    group1   group2 meandiff   p-adj    lower    upper reject  target
+0   AD_MCI  EMCI_CN  -1.8686     0.0  -2.6401  -1.0971   True  FAQ_bl
+1   AD_MCI  LMCI_CN  -1.8745     0.0  -2.6477  -1.1013   True  FAQ_bl
+2   AD_MCI   SMC_CN  -1.7497     0.0  -2.4974  -1.0021   True  FAQ_bl
+3  EMCI_CN  LMCI_CN  -0.0059     1.0  -0.3085   0.2967  False  FAQ_bl
+4  EMCI_CN   SMC_CN   0.1189  0.5424  -0.1107   0.3484  False  FAQ_bl
+5  LMCI_CN   SMC_CN   0.1248  0.5219  -0.1104     0.36  False  FAQ_bl
+FAQ_bl组间【有】显著差异
+LMCI_CN <= EMCI_CN <= SMC_CN < AD_MCI
+
+    group1   group2 meandiff   p-adj    lower    upper reject         target
+0   AD_MCI  EMCI_CN   2.9976  0.0001   1.2405   4.7548   True  mPACCdigit_bl
+1   AD_MCI  LMCI_CN   3.9345     0.0   2.1734   5.6955   True  mPACCdigit_bl
+2   AD_MCI   SMC_CN   0.9754  0.4538  -0.7274   2.6782  False  mPACCdigit_bl
+3  EMCI_CN  LMCI_CN   0.9369  0.0027   0.2476   1.6261   True  mPACCdigit_bl
+4  EMCI_CN   SMC_CN  -2.0222     0.0   -2.545  -1.4995   True  mPACCdigit_bl
+5  LMCI_CN   SMC_CN  -2.9591     0.0  -3.4947  -2.4234   True  mPACCdigit_bl
+mPACCdigit_bl组间【有】显著差异
+AD_MCI <= SMC_CN < EMCI_CN < LMCI_CN
+
+    group1   group2 meandiff   p-adj    lower    upper reject           target
+0   AD_MCI  EMCI_CN   2.8015     0.0   1.3359   4.2671   True  mPACCtrailsB_bl
+1   AD_MCI  LMCI_CN   3.8414     0.0   2.3726   5.3103   True  mPACCtrailsB_bl
+2   AD_MCI   SMC_CN   1.0454  0.2312  -0.3748   2.4657  False  mPACCtrailsB_bl
+3  EMCI_CN  LMCI_CN   1.0399     0.0   0.4651   1.6148   True  mPACCtrailsB_bl
+4  EMCI_CN   SMC_CN   -1.756     0.0  -2.1921    -1.32   True  mPACCtrailsB_bl
+5  LMCI_CN   SMC_CN   -2.796     0.0  -3.2428  -2.3492   True  mPACCtrailsB_bl
+mPACCtrailsB_bl组间【有】显著差异
+AD_MCI <= SMC_CN < EMCI_CN < LMCI_CN
+
+    group1   group2      meandiff   p-adj         lower         upper reject  \
+0   AD_MCI  EMCI_CN   464642.7606     0.0   233457.7352   695827.7861   True   
+1   AD_MCI  LMCI_CN   349415.9094  0.0006    117720.093   581111.7258   True   
+2   AD_MCI   SMC_CN   201320.1097  0.0959   -22712.5871   425352.8066  False   
+3  EMCI_CN  LMCI_CN  -115226.8512  0.0061  -205905.9357   -24547.7667   True   
+4  EMCI_CN   SMC_CN  -263322.6509     0.0  -332100.5127  -194544.7891   True   
+5  LMCI_CN   SMC_CN  -148095.7997     0.0  -218571.5376   -77620.0617   True   
+
+        target  
+0  IMAGEUID_bl  
+1  IMAGEUID_bl  
+2  IMAGEUID_bl  
+3  IMAGEUID_bl  
+4  IMAGEUID_bl  
+5  IMAGEUID_bl  
+IMAGEUID_bl组间【有】显著差异
+AD_MCI <= SMC_CN < LMCI_CN < EMCI_CN
+
+    group1   group2    meandiff   p-adj       lower       upper reject  \
+0   AD_MCI  EMCI_CN   2802.2312  0.5437  -2616.9798   8221.4421  False   
+1   AD_MCI  LMCI_CN   4908.7626  0.0929   -522.4218  10339.9469  False   
+2   AD_MCI   SMC_CN   -431.9153  0.9967  -5683.4684   4819.6378  False   
+3  EMCI_CN  LMCI_CN   2106.5314  0.0531    -19.0781   4232.1409  False   
+4  EMCI_CN   SMC_CN  -3234.1465     0.0  -4846.3692  -1621.9238   True   
+5  LMCI_CN   SMC_CN  -5340.6779     0.0  -6992.7005  -3688.6553   True   
+
+          target  
+0  Ventricles_bl  
+1  Ventricles_bl  
+2  Ventricles_bl  
+3  Ventricles_bl  
+4  Ventricles_bl  
+5  Ventricles_bl  
+Ventricles_bl组间【有】显著差异
+SMC_CN <= AD_MCI <= EMCI_CN <= LMCI_CN
+
+    group1   group2   meandiff   p-adj      lower     upper reject  \
+0   AD_MCI  EMCI_CN  -330.8778  0.0601   -671.136    9.3803  False   
+1   AD_MCI  LMCI_CN  -115.4185    0.82  -456.4284  225.5914  False   
+2   AD_MCI   SMC_CN  -147.5389  0.6578  -477.2703  182.1924  False   
+3  EMCI_CN  LMCI_CN   215.4593  0.0002    81.9978  348.9208   True   
+4  EMCI_CN   SMC_CN   183.3389     0.0    82.1116  284.5662   True   
+5  LMCI_CN   SMC_CN   -32.1204   0.856  -135.8466   71.6058  False   
+
+           target  
+0  Hippocampus_bl  
+1  Hippocampus_bl  
+2  Hippocampus_bl  
+3  Hippocampus_bl  
+4  Hippocampus_bl  
+5  Hippocampus_bl  
+Hippocampus_bl组间【有】显著差异
+EMCI_CN < SMC_CN <= LMCI_CN <= AD_MCI
+
+    group1   group2     meandiff   p-adj        lower       upper reject  \
+0   AD_MCI  EMCI_CN  -17659.7554  0.2881  -43321.1582   8001.6475  False   
+1   AD_MCI  LMCI_CN   -6564.4297  0.9132    -32282.53  19153.6707  False   
+2   AD_MCI   SMC_CN    5103.9783  0.9523  -19763.5203  29971.4768  False   
+3  EMCI_CN  LMCI_CN   11095.3257   0.024    1030.0003  21160.6512   True   
+4  EMCI_CN   SMC_CN   22763.7337     0.0   15129.4312  30398.0362   True   
+5  LMCI_CN   SMC_CN    11668.408  0.0008    3845.6422  19491.1737   True   
+
+          target  
+0  WholeBrain_bl  
+1  WholeBrain_bl  
+2  WholeBrain_bl  
+3  WholeBrain_bl  
+4  WholeBrain_bl  
+5  WholeBrain_bl  
+WholeBrain_bl组间【有】显著差异
+EMCI_CN < LMCI_CN <= AD_MCI <= SMC_CN
+
+    group1   group2   meandiff   p-adj       lower      upper reject  \
+0   AD_MCI  EMCI_CN  -293.1878  0.9545  -1746.1062  1159.7307  False   
+1   AD_MCI  LMCI_CN  -702.0764  0.6012   -2158.205   754.0522  False   
+2   AD_MCI   SMC_CN  -194.1535  0.9847   -1602.122   1213.815  False   
+3  EMCI_CN  LMCI_CN  -408.8886  0.2524   -978.7755   160.9982  False   
+4  EMCI_CN   SMC_CN    99.0343  0.9353    -333.211   531.2795  False   
+5  LMCI_CN   SMC_CN   507.9229   0.017     65.0071   950.8387   True   
+
+          target  
+0  Entorhinal_bl  
+1  Entorhinal_bl  
+2  Entorhinal_bl  
+3  Entorhinal_bl  
+4  Entorhinal_bl  
+5  Entorhinal_bl  
+Entorhinal_bl组间【有】显著差异
+LMCI_CN <= EMCI_CN <= SMC_CN <= AD_MCI
+
+    group1   group2   meandiff   p-adj       lower     upper reject  \
+0   AD_MCI  EMCI_CN  -638.1309  0.2654  -1541.2453  264.9835  False   
+1   AD_MCI  LMCI_CN   -166.622  0.9649  -1071.7317  738.4878  False   
+2   AD_MCI   SMC_CN  -488.9961  0.4761  -1364.1702   386.178  False   
+3  EMCI_CN  LMCI_CN   471.5089  0.0036     117.275  825.7429   True   
+4  EMCI_CN   SMC_CN   149.1348   0.482    -119.543  417.8126  False   
+5  LMCI_CN   SMC_CN  -322.3742  0.0141   -597.6846  -47.0637   True   
+
+        target  
+0  Fusiform_bl  
+1  Fusiform_bl  
+2  Fusiform_bl  
+3  Fusiform_bl  
+4  Fusiform_bl  
+5  Fusiform_bl  
+Fusiform_bl组间【有】显著差异
+EMCI_CN <= SMC_CN < LMCI_CN <= AD_MCI
+
+    group1   group2  meandiff   p-adj      lower      upper reject      target
+0   AD_MCI  EMCI_CN  726.2432  0.0482     3.8803  1448.6061   True  MidTemp_bl
+1   AD_MCI  LMCI_CN  845.9808  0.0143   122.0218  1569.9397   True  MidTemp_bl
+2   AD_MCI   SMC_CN  755.6906  0.0284    55.6759  1455.7053   True  MidTemp_bl
+3  EMCI_CN  LMCI_CN  119.7376  0.6975  -163.5992   403.0743  False  MidTemp_bl
+4  EMCI_CN   SMC_CN   29.4474   0.985  -185.4565   244.3514  False  MidTemp_bl
+5  LMCI_CN   SMC_CN  -90.2901  0.7171  -310.4993    129.919  False  MidTemp_bl
+MidTemp_bl组间【有】显著差异
+AD_MCI < EMCI_CN <= SMC_CN <= LMCI_CN
+
+    group1   group2      meandiff   p-adj         lower        upper reject  \
+0   AD_MCI  EMCI_CN  -301734.5342  0.3911  -793371.9837  189902.9154  False   
+1   AD_MCI  LMCI_CN  -310319.7368  0.3675  -803043.4331  182403.9594  False   
+2   AD_MCI   SMC_CN   -253634.289  0.5187  -730061.6159  222793.0379  False   
+3  EMCI_CN  LMCI_CN    -8585.2027  0.9995  -201423.0984  184252.6931  False   
+4  EMCI_CN   SMC_CN    48100.2452  0.8324   -98162.5697  194363.0601  False   
+5  LMCI_CN   SMC_CN    56685.4479  0.7649   -93188.0657  206558.9615  False   
+
+   target  
+0  ICV_bl  
+1  ICV_bl  
+2  ICV_bl  
+3  ICV_bl  
+4  ICV_bl  
+5  ICV_bl  
+ICV_bl组间【无】显著差异
+LMCI_CN <= EMCI_CN <= SMC_CN <= AD_MCI
+
+    group1   group2 meandiff   p-adj    lower    upper reject   target
+0   AD_MCI  EMCI_CN   16.688     0.0  12.3165  21.0595   True  MOCA_bl
+1   AD_MCI  LMCI_CN   8.7986     0.0   4.4174  13.1798   True  MOCA_bl
+2   AD_MCI   SMC_CN   15.694     0.0  11.4577  19.9303   True  MOCA_bl
+3  EMCI_CN  LMCI_CN  -7.8894     0.0  -9.6041  -6.1748   True  MOCA_bl
+4  EMCI_CN   SMC_CN   -0.994  0.2014  -2.2946   0.3065  False  MOCA_bl
+5  LMCI_CN   SMC_CN   6.8954     0.0   5.5628    8.228   True  MOCA_bl
+MOCA_bl组间【有】显著差异
+AD_MCI < LMCI_CN < SMC_CN <= EMCI_CN
+
+    group1   group2 meandiff   p-adj    lower    upper reject          target
+0   AD_MCI  EMCI_CN   0.9012     0.0   0.5783   1.2241   True  EcogPtTotal_bl
+1   AD_MCI  LMCI_CN   0.2707  0.1373  -0.0528   0.5943  False  EcogPtTotal_bl
+2   AD_MCI   SMC_CN   1.0705     0.0   0.7576   1.3834   True  EcogPtTotal_bl
+3  EMCI_CN  LMCI_CN  -0.6305     0.0  -0.7571  -0.5038   True  EcogPtTotal_bl
+4  EMCI_CN   SMC_CN   0.1693     0.0   0.0732   0.2653   True  EcogPtTotal_bl
+5  LMCI_CN   SMC_CN   0.7997     0.0   0.7013   0.8982   True  EcogPtTotal_bl
+EcogPtTotal_bl组间【有】显著差异
+AD_MCI <= LMCI_CN < EMCI_CN < SMC_CN
+
+    group1   group2 meandiff   p-adj    lower    upper reject          target
+0   AD_MCI  EMCI_CN   1.4721     0.0    1.158   1.7861   True  EcogSPTotal_bl
+1   AD_MCI  LMCI_CN   0.8514     0.0   0.5366   1.1661   True  EcogSPTotal_bl
+2   AD_MCI   SMC_CN   1.4951     0.0   1.1907   1.7994   True  EcogSPTotal_bl
+3  EMCI_CN  LMCI_CN  -0.6207     0.0  -0.7439  -0.4975   True  EcogSPTotal_bl
+4  EMCI_CN   SMC_CN    0.023  0.9213  -0.0704   0.1164  False  EcogSPTotal_bl
+5  LMCI_CN   SMC_CN   0.6437     0.0    0.548   0.7395   True  EcogSPTotal_bl
+EcogSPTotal_bl组间【有】显著差异
+AD_MCI < LMCI_CN < EMCI_CN <= SMC_CN
+
+    group1   group2 meandiff   p-adj    lower   upper reject    target
+0   AD_MCI  EMCI_CN   0.2446  0.8261  -0.4883  0.9776  False  Month_bl
+1   AD_MCI  LMCI_CN   0.3057  0.7076  -0.4289  1.0403  False  Month_bl
+2   AD_MCI   SMC_CN   0.1554  0.9431  -0.5549  0.8656  False  Month_bl
+3  EMCI_CN  LMCI_CN   0.0611  0.9475  -0.2264  0.3486  False  Month_bl
+4  EMCI_CN   SMC_CN  -0.0893  0.7182  -0.3073  0.1288  False  Month_bl
+5  LMCI_CN   SMC_CN  -0.1503  0.3081  -0.3737  0.0731  False  Month_bl
+Month_bl组间【无】显著差异
+AD_MCI <= SMC_CN <= EMCI_CN <= LMCI_CN
+
+    group1   group2    meandiff   p-adj       lower      upper reject  \
+0   AD_MCI  EMCI_CN   1288.8404     0.0    617.6955  1959.9853   True   
+1   AD_MCI  LMCI_CN   1326.1326     0.0    653.5048  1998.7604   True   
+2   AD_MCI   SMC_CN    210.9352  0.8381   -439.4461   861.3164  False   
+3  EMCI_CN  LMCI_CN     37.2922  0.9834    -225.955   300.5394  False   
+4  EMCI_CN   SMC_CN  -1077.9053     0.0  -1277.5718  -878.2387   True   
+5  LMCI_CN   SMC_CN  -1115.1974     0.0   -1319.793  -910.6019   True   
+
+      target  
+0  timestamp  
+1  timestamp  
+2  timestamp  
+3  timestamp  
+4  timestamp  
+5  timestamp  
+timestamp组间【有】显著差异
+AD_MCI <= SMC_CN < EMCI_CN <= LMCI_CN
+
